@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1067000616355",
+    "firebase_url": "https://womensafety-7cc48.firebaseio.com",
+    "project_id": "womensafety-7cc48",
+    "storage_bucket": "womensafety-7cc48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067000616355:android:2be106688db4b3ab48b616",
+        "android_client_info": {
+          "package_name": "com.example.camera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067000616355-ckcifmjvlhpm5i5u5cehvgb6ftd806fi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVYddfgZAU3i27R9aOfmh_DvIuGMwrVqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067000616355-ckcifmjvlhpm5i5u5cehvgb6ftd806fi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067000616355:android:ec43a8db0bc0225448b616",
+        "android_client_info": {
+          "package_name": "com.example.police"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067000616355-ckcifmjvlhpm5i5u5cehvgb6ftd806fi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVYddfgZAU3i27R9aOfmh_DvIuGMwrVqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067000616355-ckcifmjvlhpm5i5u5cehvgb6ftd806fi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067000616355:android:bf1f6c1d1fd998f148b616",
+        "android_client_info": {
+          "package_name": "com.example.women"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067000616355-ckcifmjvlhpm5i5u5cehvgb6ftd806fi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVYddfgZAU3i27R9aOfmh_DvIuGMwrVqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067000616355-ckcifmjvlhpm5i5u5cehvgb6ftd806fi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
